@@ -13,7 +13,6 @@ build/
 data/
 
 gate_dist_lambda_*.png
-gate_dist_smoke_test.png
 
 .env
 .venv/
