@@ -1,0 +1,35 @@
+# Report (will be added manually after full run)
+report.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data (CIFAR-10 downloaded locally, no need to push)
+data/
+
+# Generated plots (will be added after full run)
+gate_dist_lambda_*.png
+gate_dist_smoke_test.png
+
+# Env
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
